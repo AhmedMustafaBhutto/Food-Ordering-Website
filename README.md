@@ -1,3 +1,4 @@
+HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -62,3 +63,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Food-Ordering-Website
+Food Ordering Website is a dynamic web platform that allows users to browse menus, select dishes, and place online food orders conveniently. The system provides a smooth and responsive user experience with secure and efficient order management.
+ 42f378473ed9d990d45c34d7fbd5ddcea16ac13a
